@@ -44,13 +44,7 @@
 
 ### NOTICE OF MODIFICATION
 
-This project was forked from [Baystation 12](https://github.com/Baystation12/Baystation12) on 6 Jan 2020.
-
----
-
-### CONTRIBUTING GUIDELINES
-
-All users are expected to review [/docs/CODE_OF_CONDUCT.md](/docs/CODE_OF_CONDUCT.md) before interacting with the repository or other users.
+This project was forked from [Persistence-13](https://github.com/PersistentSS13/Nebula) on 8 Oct 2024.
 
 ---
 
