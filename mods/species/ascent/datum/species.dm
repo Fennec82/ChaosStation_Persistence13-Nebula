@@ -6,7 +6,7 @@
 		"a nymph" =         2,
 		"a juvenile" =      3,
 		"an adolescent" =   5,
-		"a young adult" =  12,
+		"a young adult" =  18,
 		"a full adult" =   30,
 		"a matriarch" =    45,
 		"a queen" =        60,

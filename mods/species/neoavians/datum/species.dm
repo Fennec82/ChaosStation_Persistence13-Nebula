@@ -1,14 +1,14 @@
 /datum/appearance_descriptor/age/neoavian
-	chargen_min_index = 3
+	chargen_min_index = 7
 	chargen_max_index = 6
 	standalone_value_descriptors = list(
 		"a hatchling" =     1,
 		"an fledgeling" =   6,
-		"a young adult" =  12,
+		"a young adult" =  18,
 		"an adult" =       25,
-		"middle-aged" =    35,
-		"aging" =          45,
-		"elderly" =        50
+		"middle-aged" =    45,
+		"aging" =          65,
+		"elderly" =        80
 	)
 
 /decl/species/neoavian
