@@ -33,8 +33,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#contributing-guidelines">Contributing Guidelines</a> •
+<p align="center"> •
   <a href="#security">Security</a> •
   <a href="#license">License</a> •
   <a href="#getting-the-code-and-installing">Getting the Code and Installing</a>
