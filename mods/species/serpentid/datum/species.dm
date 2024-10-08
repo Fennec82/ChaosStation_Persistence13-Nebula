@@ -1,14 +1,14 @@
 /datum/appearance_descriptor/age/serpentid
-	chargen_min_index = 3
-	chargen_max_index = 6
+	chargen_min_index = 5
+	chargen_max_index = 7
 	standalone_value_descriptors = list(
 		"a larva" =         1,
 		"a nymph" =         2,
 		"a juvenile" =      3,
 		"an adolescent" =   5,
-		"a young adult" =  12,
-		"a full adult" =   30,
-		"senescent" =      45
+		"a young adult" =  18,
+		"a full adult" =   20,
+		"senescent" =      85
 	)
 
 /decl/species/serpentid
