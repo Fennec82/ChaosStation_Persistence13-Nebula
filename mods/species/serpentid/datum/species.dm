@@ -14,7 +14,7 @@
 /decl/species/serpentid
 	name = SPECIES_SERPENTID
 	name_plural = "Serpentids"
-	spawn_flags = SPECIES_IS_RESTRICTED
+	spawn_flags = SPECIES_CAN_JOIN
 
 	preview_outfit = null
 
